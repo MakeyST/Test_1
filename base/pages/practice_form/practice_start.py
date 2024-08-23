@@ -1,5 +1,3 @@
-from idlelib.iomenu import errors
-
 import allure
 from playwright.sync_api import Page
 
